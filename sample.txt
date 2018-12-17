@@ -1,0 +1,20 @@
+SUMMARY OF QUALIFICATIONS
+Strong knowledge of Software Testing Life Cycle (STLC) from test planning to reporting. 
+Java certified Test Automation Engineer (SDET) with excellent knowledge of OOP concepts. 
+Proven capacity to develop and execute various types of testing, including functional, 
+regression, smoke, database, API testing. Experience in development and execution of Maven, 
+Cucumber, Junit, TestNG Selenium WebDriver (for UI testing), JDBC (for database testing), 
+Rest Assured (for API testing) framework. Solid knowledge of Page Object Model (POM), 
+Data Driven and BDD framework. Familiar with HTML to work with locators in Selenium WebDriver. 
+Conversant with writing SQL queries and executing database testing. Conversant with Jenkins. 
+through AWS. Task-oriented professional with strong analytical skills. Cross functional agile team member. 
+Fully authorized to work in the United States without sponsorship.
+SKILLS
+	Languages: 	Java, HTML
+	Project Building: 	Maven, Data-Driven, Behavior-Driven Development (BDD), Page Object Model (POM) Design, Relational Database Design
+	Testing Experience:	Manual, Automation, Functional, Regression, Smoke, Database, API
+	Testing Tools: 	Selenium WebDriver, TestNG, Junit, Cucumber, Rest Assured, JDBC
+	Methodologies: 	Agile/Scrum, Waterfall
+	Version Control: 	Git/GitHub
+	Databases: 	MySQL, Oracle, PostgreSQL 
+	Test Management: 	Jira 
